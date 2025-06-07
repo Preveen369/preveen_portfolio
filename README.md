@@ -6,7 +6,7 @@
 ![UI](https://img.shields.io/badge/UI-Custom-emerald.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 
-Preveen Portfolio is a personal web portfolio designed to highlight skills, projects, and achievements. It serves as a digital resume and a creative showcase for potential clients, collaborators, and employers.
+Preveen Portfolio is a personal web portfolio designed to highlight skills, projects, and achievements. It serves as a digital resume and a creative showcase for potential clients, collaborators, and employers. It is deployed on GitHub Pages, thus making it easily accessible to anyone.
 
 🔗 **Project Demo**: <https://preveen369.github.io/preveen_portfolio/>
 
@@ -79,7 +79,7 @@ preveen_portfolio/
 
    - Simply open `index.html` in your preferred browser to view the portfolio.
   
-🌐 Access your app live at: <https://preveen369.github.io/preveen_portfolio/>
+   🌐 Access your app live at: <https://preveen369.github.io/preveen_portfolio/>
 
 ---
 
@@ -111,7 +111,7 @@ For queries or suggestions:
 
 - 📩 Email: [spreveen123@gmail.com](mailto:spreveen123@gmail.com)
 
-- 🌐 LinkedIn: Preveen S
+- 🌐 LinkedIn: <https://linkedin.com/in/preveen-s>
 
 ---
 
