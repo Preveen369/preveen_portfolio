@@ -8,6 +8,8 @@
 
 Preveen Portfolio is a personal web portfolio designed to highlight skills, projects, and achievements. It serves as a digital resume and a creative showcase for potential clients, collaborators, and employers.
 
+🔗 **Project Demo**: <https://preveen369.github.io/preveen_portfolio/>
+
 ---
 
 ## 🚀 Features
@@ -76,6 +78,8 @@ preveen_portfolio/
 2. **Open in Browser**
 
    - Simply open `index.html` in your preferred browser to view the portfolio.
+  
+🌐 Access your app live at: <https://preveen369.github.io/preveen_portfolio/>
 
 ---
 
