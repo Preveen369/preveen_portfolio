@@ -4,7 +4,7 @@
 ![Tech](https://img.shields.io/badge/Frontend-HTML%2FCSS-orange.svg)
 ![Tech](https://img.shields.io/badge/Language-JavaScript-yellow.svg)
 ![UI](https://img.shields.io/badge/UI-Custom-emerald.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+![License](https://img.shields.io/badge/License-GNU-lightgrey.svg)
 
 Preveen Portfolio is a personal web portfolio designed to highlight skills, projects, and achievements. It serves as a digital resume and a creative showcase for potential clients, collaborators, and employers. It is deployed on GitHub Pages, thus making it easily accessible to anyone.
 
