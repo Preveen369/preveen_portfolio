@@ -51,17 +51,24 @@ Preveen Portfolio is a personal web portfolio designed to highlight skills, proj
 ```plaintext
 preveen_portfolio/
     ├── index.html                 # Main HTML file for the portfolio
-    ├── assets/
-    │   ├── css/
-    │   │   └── style.css          # Custom CSS styles
-    │   ├── images/
-    │   │   ├── icons/             # SVG icons for various sections
-    │   │   ├── avatars/           # Profile and team avatars
-    │   │   ├── posts/             # Blog post images
-    │   │   └── projects/          # Project showcase images
-    │   └── js/
-    │       └── script.js          # JavaScript for interactivity
-    └── README.md                  # Project documentation
+    ├── blog.html                  # Blog section page
+    ├── contact.html               # Contact page
+    ├── portfolio.html             # Portfolio showcase page
+    ├── resume.html                # Resume/CV page
+    ├── LICENSE                    # License file
+    ├── README.md                  # Project documentation
+    └── assets/
+        ├── css/
+        │   └── style.css          # Custom CSS styles
+        ├── images/
+        │   ├── logo.svg           # Site logo
+        │   ├── my-avatar.jpg      # Main profile avatar
+        │   ├── icons/             # SVG icons for various sections
+        │   ├── avatars/           # Profile and team avatars
+        │   ├── posts/             # Blog post images
+        │   └── projects/          # Project showcase images
+        └── js/
+            └── script.js          # JavaScript for interactivity
 ```
 
 ---
