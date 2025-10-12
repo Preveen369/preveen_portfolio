@@ -8,7 +8,7 @@
 
 Preveen Portfolio is a personal web portfolio designed to highlight skills, projects, and achievements. It serves as a digital resume and a creative showcase for potential clients, collaborators, and employers. It is deployed on GitHub Pages, thus making it easily accessible to anyone.
 
-🔗 **Project Demo**: <https://preveen369.github.io/preveen_portfolio/>
+🔗 **Live Project**: <https://preveen369.github.io/preveen_portfolio/>
 
 ---
 
@@ -112,13 +112,16 @@ git push origin feature-name
 
 ---
 
+## 📄 License
+
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 📧 Contact
-
 For queries or suggestions:
-
 - 📩 Email: [spreveen123@gmail.com](mailto:spreveen123@gmail.com)
-
-- 🌐 LinkedIn: <https://linkedin.com/in/preveen-s>
+- 🌐 LinkedIn: [www.linkedin.com/in/preveen-s-17250529b/](https://www.linkedin.com/in/preveen-s-17250529b/)
 
 ---
 
