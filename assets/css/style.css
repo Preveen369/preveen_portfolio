@@ -1,3 +1,6 @@
+.social-media-title {
+  margin-top: 40px;
+}
 /*-----------------------------------*\
   #style.css
 \*-----------------------------------*/
@@ -1423,7 +1426,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   .blog-banner-box { height: auto; }
 
 }
-
 
 
 
